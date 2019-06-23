@@ -8,6 +8,7 @@ const Link = ({ active, children, setFilter }) =>
       className={classnames({ selected: active })}
       style={{ cursor: 'pointer' }}
       onClick={() => setFilter()}
+      data-cy={children}
     >
       {children}
     </a>

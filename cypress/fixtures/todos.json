@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Do Productboard assignment",
+    "isComplete": true
+  },
+  {
+    "id": 2,
+    "text": "Buy ticket to ARN",
+    "isComplete": false
+  },
+  {
+    "id": 3,
+    "text": "Visit mother-in-law",
+    "isComplete": false
+  },
+]
